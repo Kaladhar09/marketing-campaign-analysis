@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Power BI
+*.pbi
+
+# Data files (optional)
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
